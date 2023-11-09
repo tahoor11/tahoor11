@@ -32,6 +32,6 @@ I'm Mohammed Tahoor Ahmed. Recently graduated with a Bachelor of Engineering in 
 
 <p>
 <a href="https://github.com/Mohammed-Tahoor-Ahmed">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohammed-Tahoor-Ahmed&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tahoor11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
