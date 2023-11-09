@@ -4,7 +4,7 @@ I'm Tahoor Ahmed Mohammed. Currently pursuing my Graduate Degree in Computer Sci
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BB3BD&size=40&lines=Hey!+It's+Tahoor!!!;I'm+a+Software+Developer.;Working+on+Full-Stack+Web;Interested+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
 
-- >>  Currently exporing Machine Learning and AI
+-   Currently exporing Machine Learning and AI
 - 🔭 I have worked on Server-side Web Development using .NET Core.
 - 🌱 I’m currently learning Full-Stack Web Development
 - ✍️ I’m looking to collaborate on open-source
