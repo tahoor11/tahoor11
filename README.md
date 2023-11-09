@@ -2,7 +2,7 @@
 
 I'm Tahoor Ahmed Mohammed. Currently pursuing my Graduate Degree in Computer Science. I have completed my undergrad in Information Technology. I am a dedicated, organized, and highly talented IT graduate looking for an exciting and challenging opportunity as a Software Developer. Seeking to leverage exceptional technical knowledge and skill to bring value to your organization and go beyond expectations to achieve organizational goals and objectives.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BB3BD&size=40&lines=Hey!+It's+Tahoor!.....;I'm+a+Software+Developer.....;I'm+working+on+Full-Stack+Web;Interested+to+work+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BB3BD&size=40&lines=Hey!+It's+Tahoor!!!;I'm+a+Software+Developer.;Working+on+Full-Stack+Web;Interested+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
 
 - >>  Currently exporing Machine Learning and AI
 - 🔭 I have worked on Server-side Web Development using .NET Core.
@@ -28,7 +28,7 @@ I'm Tahoor Ahmed Mohammed. Currently pursuing my Graduate Degree in Computer Sci
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Dot Net Core](https://img.shields.io/badge/-.NETCore-05122A?style=flat&logo=dotnet)&nbsp;
-![Swift](https://img.shields.io/badge/-.Swift-05122A?style=flat&logo=dotnet)&nbsp;
+![Swift](https://img.shields.io/badge/-.Swift-05122A?style=flat&logo=swift)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
