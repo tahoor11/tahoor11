@@ -22,7 +22,7 @@ Balancing **IT operations** and **Software Development** as an IT Administrator.
 
 ### 🛠 &nbsp;Tech Stack
 
-Python | C | C++ | Java | C# | Swift | SQL | NoSQL
-Web Development | Full Stack Engineer | Programmer | Cloud Engineer | Devops and Pipelines | Mobile Apps
+- Python | C | C++ | Java | C# | Swift | SQL | NoSQL
+- Web Development | Full Stack Engineer | Programmer | Cloud Engineer | Devops and Pipelines | Mobile Apps
 
 
