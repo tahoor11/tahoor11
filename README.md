@@ -30,10 +30,3 @@ I'm Tahoor Ahmed Mohammed. Currently pursuing my Graduate Degree in Computer Sci
 ![Dot Net Core](https://img.shields.io/badge/-.NETCore-05122A?style=flat&logo=dotnet)&nbsp;
 ![Swift](https://img.shields.io/badge/-.Swift-05122A?style=flat&logo=swift)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p>
-<a href="https://github.com/Mohammed-Tahoor-Ahmed">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tahoor11&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
